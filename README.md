@@ -1,9 +1,9 @@
 # Portafolio Profesional JED
 
-Bienvenido a mi portafolio profesional. Soy desarrollador con experiencia en automatización de datos, análisis con Excel y programación con C# y Python. Este repositorio documenta proyectos destacados que integran:
+Bienvenido a mi portafolio profesional. Soy desarrollador con experiencia en automatización de datos, análisis con Excel y programación con C#, VB, y Python. Este repositorio documenta proyectos destacados que integran:
 
 - Macros y automatización en Excel (con generación de reportes PDF).
-- Conexión a bases de datos MySQL.
+- Conexión a bases de datos SQL/MySQL.
 - CRUDs modernos con validaciones.
 - Scripts de análisis de datos en Python.
 
